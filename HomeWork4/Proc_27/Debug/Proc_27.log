@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Proc_27.cpp
+c:\users\sereg\source\repos\homework4\proc_27\proc_27.cpp(10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Proc_27.vcxproj -> C:\Users\Sereg\source\repos\HomeWork4\Debug\Proc_27.exe
